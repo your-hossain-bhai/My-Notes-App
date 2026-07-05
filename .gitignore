@@ -72,6 +72,7 @@ app.*.map.json
 **/android/**/GeneratedPluginRegistrant.java
 **/android/key.properties
 **/android/**/google-services.json
+android/app/google-services.json
 
 # iOS/macOS/Android version control
 **/ios/**/.gitignore
